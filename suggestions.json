@@ -1,0 +1,20 @@
+{
+    "suggestions": [
+        {
+            "label": "0",
+            "response": [
+                "Regularly review your credit card statements to ensure all transactions are legitimate. Report any discrepancies or unfamiliar charges to your bank immediately.",
+                "Set up transaction alerts on your credit card for a certain threshold amount. This way, you'll be notified of any large or unusual transactions in real-time.",
+                "Whenever possible, enable two-factor authentication for your credit card transactions. This adds an extra layer of security, making it more difficult for unauthorized users to access your account."
+            ]
+        },
+        {
+            "label": "1",
+            "response": [
+                "If you suspect a fraudulent transaction, contact your bank's fraud department immediately. They can guide you on how to dispute the charge and may block your card to prevent further unauthorized use.",
+                "Change your credit card password and PIN if you suspect fraudulent activity. Ensure that your security information, such as email and phone number, associated with the account is up-to-date.",
+                "Monitor your credit report for any suspicious activity. You are entitled to a free annual credit report from major credit bureaus. Report any inaccuracies promptly to the credit reporting agencies."
+            ]
+        }
+    ]
+}
