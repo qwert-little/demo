@@ -47,7 +47,7 @@ def result():
         if txt!="":
             res = clean_text(txt)
             print(res)
-            result, sugg = analyseSentiment(res)
+            result, sugg = analyseSentiment(res[0])
             return render_template("result.html", result = result, sugg = sugg, txt=txt)
         else:
             return render_template('home.html')
