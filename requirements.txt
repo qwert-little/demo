@@ -3,6 +3,4 @@ numpy
 pandas
 nltk
 gunicorn
-pickle
 scikit-learn
-os
